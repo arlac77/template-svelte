@@ -1,0 +1,32 @@
+{
+  "keywords": [
+    "svelte"
+  ],
+  "devDependencies": {
+    "rollup-plugin-svelte": "^5.2.1",
+    "svelte": "^3.22.2"
+  },
+  "template": {
+    "inheritFrom": [],
+    "mergers": [
+      {
+        "type": "Readme",
+        "pattern": "README.md",
+        "options": {
+          "badges": [
+            {
+              "name": "Svelte v3",
+              "icon": "https://img.shields.io/badge/svelte-v3-orange.svg",
+              "url": "https://svelte.dev",
+              "order": 0.05
+            }
+          ]
+        }
+      }
+    ],
+    "usedBy": [
+      "arlac77/template-svelte-app",
+      "arlac77/template-svelte-component"
+    ]
+  }
+}
