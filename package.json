@@ -1,23 +1,13 @@
 {
-  "main": "src/index.mjs",
-  "svelte": "src/index.svelte",
   "keywords": [
     "svelte"
   ],
-  "scripts": {
-    "start": "#overwrite rollup -c example/rollup.config.mjs -w",
-    "test": "#overwrite testcafe $BROWSER:headless tests/*-test.js -s test-results --app-init-delay 500 --app \"rollup -c example/rollup.config.mjs -w\""
-  },
   "devDependencies": {
     "rollup-plugin-svelte": "^5.2.1",
-    "svelte": "^3.22.2",
-    "testcafe": "^1.8.4"
+    "svelte": "^3.22.2"
   },
   "template": {
-    "inheritFrom": [
-      "arlac77/template-web-component",
-      "arlac77/template-travis"
-    ],
+    "inheritFrom": ["arlac77/template-rollup"],
     "mergers": [
       {
         "type": "Readme",
@@ -35,13 +25,8 @@
       }
     ],
     "usedBy": [
-      "Kronos-Integration/svelte-components",
-      "arlac77/svelte-common",
-      "arlac77/svelte-guard-history-router",
-      "arlac77/svelte-log-view",
-      "arlac77/svelte-session-manager",
-      "arlac77/svelte-time-series",
-      "arlac77/svelte-websocket-store"
+      "arlac77/template-svelte-app",
+      "arlac77/template-svelte-component"
     ]
   }
 }
