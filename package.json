@@ -3,8 +3,8 @@
     "svelte"
   ],
   "devDependencies": {
-    "rollup-plugin-svelte": "^5.2.1",
-    "svelte": "^3.22.2"
+    "rollup-plugin-svelte": "^5.2.2",
+    "svelte": "^3.22.3"
   },
   "template": {
     "inheritFrom": ["arlac77/template-rollup"],
