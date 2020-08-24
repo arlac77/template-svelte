@@ -4,7 +4,7 @@
   ],
   "devDependencies": {
     "rollup-plugin-svelte": "git+https://github.com/ctavan/rollup-plugin-svelte.git#handle-missing-exports-gracefully",
-    "svelte": "^3.24.0"
+    "svelte": "^3.24.1"
   },
   "template": {
     "inheritFrom": ["arlac77/template-rollup"],
