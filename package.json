@@ -7,8 +7,15 @@
     "svelte": "^3.24.1"
   },
   "template": {
-    "inheritFrom": ["arlac77/template-rollup"],
+    "inheritFrom": [
+      "arlac77/template-rollup",
+      "arlac77/template-github-action"
+    ],
     "mergers": [
+      {
+        "type": "Skip",
+        "pattern": "ci.yml"
+      },
       {
         "type": "Readme",
         "pattern": "README.md",
