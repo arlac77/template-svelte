@@ -14,7 +14,7 @@
     "mergers": [
       {
         "type": "Skip",
-        "pattern": "ci.yml"
+        "pattern": ".github/workflows/ci.yml"
       },
       {
         "type": "Readme",
