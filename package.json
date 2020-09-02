@@ -17,6 +17,10 @@
         "pattern": ".github/workflows/ci.yml"
       },
       {
+        "type": "YARNLockfile",
+        "pattern": "yarn.lock"
+      },
+      {
         "type": "Readme",
         "pattern": "README.md",
         "options": {
