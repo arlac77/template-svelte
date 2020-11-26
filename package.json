@@ -4,7 +4,7 @@
   ],
   "devDependencies": {
     "rollup-plugin-svelte": "^7.0.0",
-    "svelte": "^3.29.7"
+    "svelte": "^3.30.0"
   },
   "template": {
     "inheritFrom": [
