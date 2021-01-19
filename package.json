@@ -10,8 +10,10 @@
     "postcss": "^8.2.4"
   },
   "template": {
-    "javascript": {
-      "source": "./src/**/.mjs"
+    "properties": {
+      "javascript": {
+        "source": "./src/**/.mjs"
+      }
     },
     "inheritFrom": [
       "arlac77/template-rollup",
