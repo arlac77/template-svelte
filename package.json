@@ -10,11 +10,6 @@
     "postcss": "^8.2.4"
   },
   "template": {
-    "properties": {
-      "javascript": {
-        "source": "./src/**/*.mjs"
-      }
-    },
     "inheritFrom": [
       "arlac77/template-rollup",
       "arlac77/template-github-action"
