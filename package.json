@@ -12,7 +12,7 @@
   "template": {
     "properties": {
       "javascript": {
-        "source": "./src/**/.mjs"
+        "source": "./src/**/*.mjs"
       }
     },
     "inheritFrom": [
