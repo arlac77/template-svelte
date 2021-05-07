@@ -7,7 +7,7 @@
     "svelte": "^3.38.2",
     "rollup-plugin-postcss": "^4.0.0",
     "postcss-import": "^14.0.1",
-    "postcss": "^8.2.13"
+    "postcss": "^8.2.14"
   },
   "template": {
     "inheritFrom": [
