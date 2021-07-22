@@ -3,11 +3,11 @@
     "svelte"
   ],
   "devDependencies": {
-    "svelte": "^3.38.3",
+    "svelte": "^3.40.0",
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-postcss": "^4.0.0",
     "postcss-import": "^14.0.2",
-    "postcss": "^8.3.5"
+    "postcss": "^8.3.6"
   },
   "template": {
     "inheritFrom": [
