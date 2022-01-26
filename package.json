@@ -3,7 +3,7 @@
     "svelte"
   ],
   "devDependencies": {
-    "svelte": "^3.46.2",
+    "svelte": "^3.46.3",
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-postcss": "^4.0.2",
     "postcss-import": "^14.0.2",
