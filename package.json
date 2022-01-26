@@ -3,7 +3,7 @@
     "svelte"
   ],
   "devDependencies": {
-    "svelte": "^3.46.2",
+    "svelte": "^3.46.3",
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.35",
     "rollup-plugin-svelte": "--delete--",
     "rollup-plugin-postcss": "--delete--",
@@ -36,7 +36,7 @@
       }
     ],
     "usedBy": [
-      "arlac77/template-svelte-app",
+      "arlac77/template-svelte-app#next",
       "arlac77/template-svelte-component"
     ]
   }
