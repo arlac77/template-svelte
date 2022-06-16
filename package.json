@@ -37,7 +37,7 @@
     ],
     "usedBy": [
       "arlac77/template-svelte-app#next",
-      "arlac77/template-svelte-component"
+      "arlac77/template-svelte-component#next"
     ]
   }
 }
