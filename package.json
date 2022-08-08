@@ -16,10 +16,6 @@
     ],
     "mergers": [
       {
-        "type": "Skip",
-        "pattern": ".github/workflows/ci.yml"
-      },
-      {
         "type": "Readme",
         "pattern": "README.md",
         "options": {
