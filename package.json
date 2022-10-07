@@ -4,7 +4,7 @@
   ],
   "devDependencies": {
     "svelte": "^3.50.1",
-    "@sveltejs/vite-plugin-svelte": "^1.0.8",
+    "@sveltejs/vite-plugin-svelte": "^1.0.9",
     "rollup-plugin-svelte": "--delete--",
     "rollup-plugin-postcss": "--delete--",
     "postcss-import": "--delete--",
