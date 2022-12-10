@@ -4,14 +4,15 @@
   ],
   "devDependencies": {
     "svelte": "^3.54.0",
-    "rollup-plugin-svelte": "^7.1.0",
-    "rollup-plugin-postcss": "^4.0.2",
-    "postcss-import": "^15.1.0",
-    "postcss": "^8.4.19"
+    "@sveltejs/vite-plugin-svelte": "^2.0.0",
+    "rollup-plugin-svelte": "--delete--",
+    "rollup-plugin-postcss": "--delete--",
+    "postcss-import": "--delete--",
+    "postcss": "--delete--"
   },
   "template": {
     "inheritFrom": [
-      "arlac77/template-rollup",
+      "arlac77/template-vite",
       "arlac77/template-github-action"
     ],
     "mergers": [
