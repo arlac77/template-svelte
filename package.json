@@ -17,10 +17,6 @@
     ],
     "mergers": [
       {
-        "type": "Skip",
-        "pattern": ".github/workflows/ci.yml"
-      },
-      {
         "type": "Readme",
         "pattern": "README.md",
         "options": {
@@ -36,7 +32,7 @@
       }
     ],
     "usedBy": [
-      "arlac77/template-svelte-app#next",
+      "arlac77/template-svelte-app",
       "arlac77/template-svelte-component"
     ]
   }
