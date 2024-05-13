@@ -19,8 +19,8 @@
         "options": {
           "badges": [
             {
-              "name": "Svelte v3",
-              "icon": "https://img.shields.io/badge/svelte-v3-orange.svg",
+              "name": "Svelte v4",
+              "icon": "https://img.shields.io/badge/svelte-v4-orange.svg",
               "url": "https://svelte.dev",
               "order": 0.05
             }
