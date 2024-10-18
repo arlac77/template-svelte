@@ -7,6 +7,11 @@
     "@sveltejs/vite-plugin-svelte": "^4.0.0-next.8"
   },
   "template": {
+    "properties": {
+      "typescript" : {
+        "libs" : "--lib es2024 --lib dom "
+      }
+    },
     "inheritFrom": [
       "arlac77/template-vite",
       "arlac77/template-javascript",
