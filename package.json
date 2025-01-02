@@ -3,13 +3,13 @@
     "svelte"
   ],
   "devDependencies": {
-    "svelte": "^5.16.0",
+    "svelte": "^5.16.1",
     "@sveltejs/vite-plugin-svelte": "^5.0.3"
   },
   "template": {
     "properties": {
       "typescript" : {
-        "libs" : "--lib es2024 --lib dom "
+        "libs-option" : "--lib es2024 --lib dom "
       }
     },
     "inheritFrom": [
