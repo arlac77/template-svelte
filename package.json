@@ -9,7 +9,7 @@
   "template": {
     "properties": {
       "typescript" : {
-        "libs-option" : "--lib es2024 --lib dom "
+        "libs-option" : "--lib esnext --lib dom "
       }
     },
     "inheritFrom": [
