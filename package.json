@@ -3,7 +3,7 @@
     "svelte"
   ],
   "devDependencies": {
-    "svelte": "^5.38.9",
+    "svelte": "^5.38.10",
     "@sveltejs/vite-plugin-svelte": "^6.2.0"
   },
   "template": {
