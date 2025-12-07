@@ -14,8 +14,7 @@
     },
     "inheritFrom": [
       "arlac77/template-vite",
-      "arlac77/template-javascript",
-      "arlac77/template-github-action"
+      "arlac77/template-npm"
     ],
     "mergers": [
       {
